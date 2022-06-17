@@ -1,0 +1,12 @@
+-npm init (initialize package json)
+-app.js(all code of express js)
+-server.js(server related code )
+-models(for mongodb model)
+-middleware.js(for middlewiares)
+-routers(for routes)
+-necessary packages -> (install dotenv,express,norgan,bcrypt,jsonwebtoken,joi,lodash,cors(cors origin))
+-(command) npm i dotenv express morgan bcrypt jsonwebtoken joi cors lodash mongoose
+
+- user input => joi
+- database related , like unique email => mongoose 
+- status 201(new create something)
